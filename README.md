@@ -1,4 +1,11 @@
-# US Bank Account Validator
+# panda1847
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/panda1847)](https://github.com/Panda1847/panda1847/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/panda1847)](https://github.com/Panda1847/panda1847/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/panda1847)](https://github.com/Panda1847/panda1847/issues)
+[![Language](https://img.shields.io/badge/language-TypeScript-blue.svg)](https://github.com/Panda1847/panda1847)
+
 
 US Bank Account Validator provides validation utilities for US bank routing and account numbers. It includes first-class support for "potential" validity so you can use it to present appropriate UI to your user as they type.
 
