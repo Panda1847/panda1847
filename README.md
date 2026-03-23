@@ -1,51 +1,32 @@
-# ⚡ NULLSEC Operations Command
+# 🦅 Project: NullSec-RedTeam-AI (Codename: HexStrike)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Panda1847&label=OPERATIONS%20LOGGED&color=d4af37&style=flat-square" alt="Panda1847" />
-</p>
+![Status](https://img.shields.io/badge/Status-Classified-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-gold?style=for-the-badge)
 
-## 📊 Language Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panda1847&layout=compact&theme=vision-glow)
+> **"Security is an illusion. We provide the reality check."**
 
----
-
-## 🎓 The NULLSEC Skill Tree
-
-### 🛡️ Operational Environments
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### 💻 Development Arsenal
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Mindfuck](https://img.shields.io/badge/Mindfuck-Brainfuck-black?style=for-the-badge&logo=knowledgebase&logoColor=white)
-
-### 🗡️ Offensive Capabilities
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-red?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Scanner-lightgrey?style=for-the-badge)
-![Adversary Emulation](https://img.shields.io/badge/Adversary-Emulation-white?style=for-the-badge&logo=target&logoColor=black)
-![Pentesting](https://img.shields.io/badge/Penetration-Testing-blueviolet?style=for-the-badge)
-
-### 🧠 AI & Research
-![Claude AI](https://img.shields.io/badge/Claude-AI_Brain-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![LLM Ops](https://img.shields.io/badge/LLM-Security_Research-blue?style=for-the-badge)
-![OSINT](https://img.shields.io/badge/OSINT-Intelligence_Gathering-orange?style=for-the-badge)
+## 🌐 Overview
+**NullSec-RedTeam-AI** is an advanced, AI-driven offensive security framework. It bridges the gap between Large Language Models (**Claude Desktop**) and raw penetration testing power. By integrating custom modules for **OSINT**, **Payload Engineering**, and **Adversary Simulation**, it automates the most complex stages of a red team operation.
 
 ---
 
-### 🔐 Operations Center Access
-> `[SYSTEM NOTICE]: Access to the NULLSEC private repository requires a verified authorization key.`
-> 
-> **Challenge Sequence:**
+## 🛠️ Integrated Capabilities
+- 🧠 **AI Brain:** Leverages Claude-3.5 for real-time payload generation and logic bypass.
+- 🗡️ **HexStrike Core:** Custom Python-based automation for Kali Linux environments.
+- 🛰️ **OSINT Suite:** Automated intelligence gathering via Nmap and custom scrapers.
+- 💾 **USB Forge:** Integration point for ZeroDay hardware payloads.
 
-++++++++++[>+++++++>++++++++>+++++>++++<<<<-]>++++++++.>+++++.+++++++..++++++++.---.<<++.>>----------.+++.<<.>>+++.
+---
 
----> *Decode the sequence to retrieve the key for the [Operations Portal](https://nullsec007.base44.app).*
+## 🚀 Installation & Deployment
 
+```bash
+# Clone the repository
+git clone https://github.com/Panda1847/NullSec-RedTeam-AI.git
 
-## 📫 Contact Info
-- **Proton Mail:** [Panda7120@proton.me](mailto:Panda7120@proton.me)
-- **Status:** *Automating the offensive, one payload at a time.*
+# Enter the operations directory
+cd NullSec-RedTeam-AI
+
+# Install dependencies
+pip install -r requirements.txt
+```
