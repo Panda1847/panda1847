@@ -26,3 +26,17 @@
 ![OSINT](https://img.shields.io/badge/OSINT-Intelligence_Gathering-orange?style=for-the-badge)
 
 ---
+
+### 🔓 Operations Center Access
+> `[SYSTEM NOTICE]: Access to the NULLSEC private repository requires a verified authorization key.`
+> 
+> **Challenge Sequence:**
+> `++++++++++[>+++++++>++++++++>+++++>++++<<<<-]>++++++++.>+++++.+++++++..++++++++.---.<<++.>>----------.+++.<<.>>+++.`
+>
+> *Decode the sequence to retrieve the key for the [Operations Portal](https://nullsec007.base44.app).*
+
+---
+
+## 📫 Contact Info
+- **Proton Mail:** [Panda7120@proton.me](mailto:Panda7120@proton.me)
+- **Status:** *Automating the offensive, one payload at a time.*
