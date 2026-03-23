@@ -40,11 +40,11 @@
 > `[SYSTEM NOTICE]: Access to the NULLSEC private repository requires a verified authorization key.`
 > 
 > **Challenge Sequence:**
-> `++++++++++[>+++++++>++++++++>+++++>++++<<<<-]>++++++++.>+++++.+++++++..++++++++.---.<<++.>>----------.+++.<<.>>+++.`
-> 
-> *Decode the sequence to retrieve the key for the [Operations Portal](https://nullsec007.base44.app).*
 
----
+++++++++++[>+++++++>++++++++>+++++>++++<<<<-]>++++++++.>+++++.+++++++..++++++++.---.<<++.>>----------.+++.<<.>>+++.
+
+---> *Decode the sequence to retrieve the key for the [Operations Portal](https://nullsec007.base44.app).*
+
 
 ## 📫 Contact Info
 - **Proton Mail:** [Panda7120@proton.me](mailto:Panda7120@proton.me)
